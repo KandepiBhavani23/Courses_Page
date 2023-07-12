@@ -63,7 +63,7 @@ const CourseViewTab = () => {
 					);
 				})}
 			</div>
-			<div className="p-4 w-full h-full">
+			<div className="p-4 w-full min-h-[50vh]">
 				<Outlet />
 			</div>
 		</div>
