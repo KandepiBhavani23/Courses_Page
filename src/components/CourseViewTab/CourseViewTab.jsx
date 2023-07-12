@@ -13,24 +13,30 @@ const CourseViewTab = () => {
 		},
 		{
 			id: 2,
+			name: "Course Content",
+			icon: null,
+			link: "content",
+		},
+		{
+			id: 3,
 			name: "OverView",
 			icon: null,
 			link: "overview",
 		},
 		{
-			id: 3,
+			id: 4,
 			name: "Notes",
 			icon: null,
 			link: "notes",
 		},
 		{
-			id: 4,
+			id: 5,
 			name: "Announcements",
 			icon: null,
 			link: "announcements",
 		},
 		{
-			id: 5,
+			id: 6,
 			name: "Reviews",
 			icon: null,
 			link: "reviews",
